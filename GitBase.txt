@@ -1,0 +1,13 @@
+1. Tạo 1 responsitory trên github và copy lick
+2. Bật GitBash gõ cd (paste link thư mục chứa code vào)
+3. Nhập tên trong github $ git config --global user.name ""
+			 $ git config --global user.email ""
+4. Clone git = lệnh: $ git clone (paste link github vào)
+5. Di chuyển vào thư mục clone bằng lệnh: cd (tên thư mục)
+6. Chạy lệnh mô tả $ git commit -m "mô tả"
+7. Quản lý thư mục clone về = : $ git add .
+8. Kéo các file vào thư mục clone
+9. Tạo tag file muốn tải lên: $ git tag version1
+10. Tạo không gian đẩy các file lên; $ git push origin master
+11. Đẩy lên: $ git push origin version1
+12. kết thúc
